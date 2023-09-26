@@ -1,5 +1,9 @@
 this is first line of java
 this is second line of java
+<<<<<<< Updated upstream
 
 
 this is manager work
+=======
+this is third line of java
+>>>>>>> Stashed changes
